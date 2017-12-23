@@ -7,3 +7,4 @@ Link to dataset:
 
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
+A LogisticRegression model and K-Nearest Neighbors model has been evaluated, optimized, trained and tested with good accuracy scores.
